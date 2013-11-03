@@ -58,6 +58,8 @@
 		E9321AD21825B98E0096BAD0 /* libusb-1.0.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = "libusb-1.0.a"; sourceTree = "<group>"; };
 		E9321AD51825B99A0096BAD0 /* libusb.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = libusb.h; sourceTree = "<group>"; };
 		E9321AD61825BBCC0096BAD0 /* IOKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = IOKit.framework; path = System/Library/Frameworks/IOKit.framework; sourceTree = SDKROOT; };
+		E9321AD8182651BE0096BAD0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		E9321AD9182651BE0096BAD0 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,8 @@
 		E9321A901825B7A40096BAD0 = {
 			isa = PBXGroup;
 			children = (
+				E9321AD9182651BE0096BAD0 /* README.md */,
+				E9321AD8182651BE0096BAD0 /* LICENSE */,
 				E9321AD51825B99A0096BAD0 /* libusb.h */,
 				E9321AD21825B98E0096BAD0 /* libusb-1.0.a */,
 				E9321AA21825B7A40096BAD0 /* TransVibrator-MIDI-Connector */,
